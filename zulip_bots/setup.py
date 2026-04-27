@@ -25,11 +25,11 @@ setup(
     long_description_content_type="text/markdown",
     author="Zulip Open Source Project",
     author_email="zulip-devel@googlegroups.com",
+    license="Apache-2.0",
     classifiers=[
         "Development Status :: 4 - Beta",
         "Environment :: Web Environment",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: Apache Software License",
         "Topic :: Communications :: Chat",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.9",
